@@ -72,6 +72,6 @@ These polynomials have applications in numerical analysis, physics, engineering,
 - Les polynômes orthogonaux classiques
 - Les polynômes orthogonaux associés classiques
 
-[Download link](https://github.com/matinbavardi/cafeplanck/tree/acd6b2828146d0ef0c609a645ca1ddbeca1ac602/Integral%20transforms)
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/ce9531cbf566519a74fadeb2ab58747202b1fc9b/Classical%20orthogonal%20polynomials%20version%201)
 
 

@@ -40,3 +40,16 @@ A key aspect of Sturm–Liouville theory is its ability to generate special func
   
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/317f97a6bd3dc8c72efb44c7bd6b242adadec23e/Sturm%E2%80%93Liouville%20theory)
 
+---
+### Integral Transforms
+
+Integral transforms are mathematical operations that convert functions from one domain (often time or space) into another domain (often frequency). These transforms are widely used in engineering, physics, and mathematics to simplify the analysis of complex problems, particularly in systems involving differential equations. Two common types of integral transforms are the Fourier Transform and the Laplace Transform.
+
+- Fourier Transform: The Fourier Transform decomposes a function, typically a time-dependent signal, into a continuous spectrum of frequencies. It represents the function as a sum of sine and cosine waves, making it a powerful tool for analyzing periodic signals in fields like signal processing, audio engineering, and quantum mechanics.
+
+- Laplace Transform: The Laplace Transform converts a function of time into a function of a complex frequency variable. By transforming a differential equation in the time domain to an algebraic equation in the frequency domain, it becomes easier to analyze and solve, especially for systems with initial conditions. This transform is especially useful in control theory, electrical engineering, and mechanical systems analysis.
+
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/acd6b2828146d0ef0c609a645ca1ddbeca1ac602/Integral%20transforms)
+
+
+

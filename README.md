@@ -51,5 +51,27 @@ Integral transforms are mathematical operations that convert functions from one 
 
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/acd6b2828146d0ef0c609a645ca1ddbeca1ac602/Integral%20transforms)
 
+---
+### Classical orthogonal polynomials
+Classical Orthogonal Polynomials are a family of polynomials that arise in many areas of mathematics, particularly in the solutions of differential equations and approximation theory. These polynomials are characterized by their orthogonality property, meaning that they are mutually perpendicular (in the sense of an inner product) with respect to a specific weight function over a given interval. The most well-known families of classical orthogonal polynomials include:
+
+- Legendre Polynomials: Arising in the solution of Laplace's equation in spherical coordinates.
+- Hermite Polynomials: Used in the solution of the Schrödinger equation in quantum mechanics and in probability theory.
+- Laguerre Polynomials: Occur in problems involving radial symmetry, especially in quantum mechanics and certain types of differential equations.
+- Chebyshev Polynomials: Important in approximation theory and numerical methods, particularly in minimizing the error in polynomial interpolation.
+
+These polynomials have applications in numerical analysis, physics, engineering, and mathematical modeling. Their orthogonality and recurrence relations make them useful for expanding functions in series, solving boundary value problems, and approximating complex functions efficiently.
+### version 1
+
+- Fonctions de carré sommable
+- Produit scalaire, normalité, orthogonalité et orthonormalité
+- Bases de l'espace des fonctions de carré sommable
+- Développement d'une fonction
+- Théorème de Stone - Weierstrass
+- La méthode de Gram-Schmidt
+- Les polynômes orthogonaux classiques
+- Les polynômes orthogonaux associés classiques
+
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/acd6b2828146d0ef0c609a645ca1ddbeca1ac602/Integral%20transforms)
 
 

@@ -37,7 +37,6 @@ A key aspect of Sturm–Liouville theory is its ability to generate special func
 - Équation différentielle de Helmholtz
 - Équations différentielles de oscillateur harmonique
 - Équation de Laplace en coordonnées sphérique (Symétrie Azimutale)
-
+  
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/317f97a6bd3dc8c72efb44c7bd6b242adadec23e/Sturm%E2%80%93Liouville%20theory)
----
 

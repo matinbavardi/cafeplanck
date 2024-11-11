@@ -1,7 +1,7 @@
 # Café Planck
 Café Planck’s Programming and Educational Lab represents over thirty years of dedication to mathematics and physics tutoring. The lab employs advanced techniques to deliver tailored solutions for science education. Interactive demonstrations and self-paced computer labs engage students, while high-end technologies provide custom support for teachers of all proficiency levels. The lab specializes in making computing solutions more accessible through dynamic scientific animations. Utilizing Wolfram technologies, it covers physics and mathematics formulas from basic to advanced levels, facilitating students in producing comprehensive theses with precise computations and visualizations.
 
-*To view or print Mathematica.nb files, you must download the [Wolfram Player](http://www.wolfram.com/cdf-player/).
+* To view or print Mathematica.nb files, you must download the [Wolfram Player](http://www.wolfram.com/cdf-player/).
 
 
 ## Mathematics

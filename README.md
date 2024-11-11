@@ -56,8 +56,7 @@ In function visualization, each point on a graph corresponds to an input-output 
 
 Types of function visualizations can include:
 
-Functions of Two Variables: Graphs of functions with two independent variables, often displayed as 3D surfaces, showing how one output depends on two inputs. This type is useful for understanding interactions in multivariable functions.
-
+- Functions of Two Variables: Graphs of functions with two independent variables, often displayed as 3D surfaces, showing how one output depends on two inputs. This type is useful for understanding interactions in multivariable functions.
 - Plane Curves: These are curves plotted in two dimensions, often representing relationships between two variables. Examples include parabolas, ellipses, and sine waves.
 - Space Curves: Curves that extend into three dimensions, showing how points change across x, y, and z coordinates. They are useful for studying trajectories or paths in 3D space.
 - Parametric Surfaces: Surfaces defined by parametric equations, where each coordinate (x, y, z) is expressed in terms of one or two parameters. These are helpful for modeling complex surfaces, like cylindrical or spherical objects.

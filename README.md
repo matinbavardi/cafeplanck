@@ -22,6 +22,15 @@ Vector Calculus is a branch of mathematics that deals with vector fields and the
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/739142454c9f9209404eb95153ab28f61ad65c7f/Vector%20calculus)
 
 ---
+Interactive visualization of Euclidean space
+
+- Interactive visualization of two-dimensional Euclidean space
+- Interactive visualization of three-dimensional Euclidean space
+
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/b3b5d7985deb0147d44b54f9e74e3f27a0eeaf5d/Interactive%20visualization%20of%20Euclidean%20space)
+
+
+---
 ### Rodrigues' Formula
 
 **Rodrigues' Formula** is a method used in mathematics to generate specific types of polynomials, often known as orthogonal polynomials, which are particularly important in physics, engineering, and statistics. The formula provides a systematic way to construct these polynomials, especially for families such as Legendre, Hermite, and Laguerre polynomials, which commonly appear in solutions to differential equations in quantum mechanics, optics, and other scientific fields.

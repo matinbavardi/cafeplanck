@@ -46,6 +46,23 @@ In plane analytic geometry, points are defined by coordinates on a plane, typica
 By representing geometric figures with equations, plane analytic geometry enables us to solve geometric problems more systematically. It also provides a foundation for calculus and advanced geometry, where curves and surfaces in higher dimensions are analyzed using similar principles.
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/3d3232dd1f4e0dbc26a47a8e9f2975c66ec98897/Plane%20Analytic%20Geometry)
 
+---
+
+#### Function Visualization
+
+Function visualization is the graphical representation of mathematical functions to help understand their behavior and properties. By plotting functions, we can observe patterns, trends, and relationships between variables, making complex functions more intuitive.
+
+In function visualization, each point on a graph corresponds to an input-output pair, showing how the output of a function changes with respect to its input. Visualizing functions is essential in various fields, from mathematics and physics to engineering and data science, as it provides insights into key characteristics like growth, decay, oscillations, or asymptotic behavior.
+
+Types of function visualizations can include:
+
+- 2D Graphs: For functions with one independent variable, where the x-axis represents the input and the y-axis the output.
+- 3D Graphs: For functions with two variables, where a surface plot represents the relationship between inputs and outputs.
+- Contour Plots: For visualizing levels of constant output, useful in fields like physics or engineering to represent fields or potentials.
+
+By visualizing functions, we gain a clearer, often immediate understanding of their structure and behavior, making it easier to analyze and interpret mathematical relationships.
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/f9c7cf60229e8b80caec841dabc4b4dce6cebd4b/Function%20visualization)
+
 
 ---
 

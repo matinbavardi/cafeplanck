@@ -262,6 +262,26 @@ These polynomials have applications in numerical analysis, physics, engineering,
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/fe4cc6b7590cffdf65c494cd7fee9792d0fe3efa/Classical%20orthogonal%20polynomials%20version%202)
 
 ---
+#### Trigonométrie
+- Circonférence trigonométrique
+- Angles associés
+- Les fonctions trigonométriques
+- Les fonctions trigonométriques inversses
+
+##### Notbooks:
+- Radian and Degree conversion
+- Angle and cartesian coordinate conversion
+- Trigonometric circle
+- Special Pairs of Angles
+- Trigonometric Expand
+- Trigonometric Factor
+- Trigonometric Reduce
+- Trigonometric equations
+- Quadratic trigonometric equations
+
+[Download link]()
+
+---
 
 ### Fourier Analysis
 

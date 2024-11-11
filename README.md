@@ -74,4 +74,17 @@ These polynomials have applications in numerical analysis, physics, engineering,
 
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/ce9531cbf566519a74fadeb2ab58747202b1fc9b/Classical%20orthogonal%20polynomials%20version%201)
 
+### version 2
+
+- Classical orthogonal polynomials 
+- Legendre polynomials 
+- Legendre polynomials in polar coordinates 
+- Hermite polynomials 
+- Laguerre polynomials 
+- Chebyshev I polynomials
+
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fe4cc6b7590cffdf65c494cd7fee9792d0fe3efa/Classical%20orthogonal%20polynomials%20version%202)
+
+
+
 

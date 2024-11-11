@@ -43,6 +43,62 @@ Interactive visualization of Euclidean space
 
  [Download link](https://github.com/matinbavardi/cafeplanck/tree/d6f2dddeddac436070ff907126d3e41631837cab/Space)
 
+ ---
+
+### Development of function
+#### Inner product
+
+- On Space Rn
+- On Space Cn
+- On Space Pn
+- On Space C[a,b]
+- On Space C*[a,b]
+
+ [Download link](https://github.com/matinbavardi/cafeplanck/tree/af254a3ab103d6ddddd29914e8701371100c4767/Development%20of%20function/Inner%20product)
+
+#### Norm
+
+- On Space Rn
+- On Space Cn
+- On Space Pn
+- On Space C[a,b]
+- On Space C*[a,b]
+
+ [Download link](https://github.com/matinbavardi/cafeplanck/tree/af254a3ab103d6ddddd29914e8701371100c4767/Development%20of%20function/Norm)
+
+
+#### Orthogonal Projection
+
+- On Space Rn
+- On Space Cn
+- On Space Pn
+- On Space C[a,b]
+- On Space C*[a,b]
+
+ [Download link](https://github.com/matinbavardi/cafeplanck/tree/af254a3ab103d6ddddd29914e8701371100c4767/Development%20of%20function/Orthogonal%20Projection)
+
+
+#### Orthogonalization
+
+- On Space Rn
+- On Space Cn
+- On Space Pn
+- On Space C[a,b]
+- On Space C*[a,b]
+
+ [Download link](https://github.com/matinbavardi/cafeplanck/tree/af254a3ab103d6ddddd29914e8701371100c4767/Development%20of%20function/Orthogonalization)
+
+ 
+#### Development of function
+
+- On Space Rn
+- On Space Cn
+- On Space Pn
+- On Space C[a,b]
+- On Space C*[a,b]
+
+ [Download link](https://github.com/matinbavardi/cafeplanck/tree/af254a3ab103d6ddddd29914e8701371100c4767/Development%20of%20function/Development%20of%20function)
+ 
 ---
 ### Rodrigues' Formula
 

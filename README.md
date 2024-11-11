@@ -35,6 +35,17 @@ Each coordinate system has advantages depending on the problem's geometry, makin
 [Download link](https://github.com/matinbavardi/cafeplanck/tree/d0a27ecb0d83caf904d2801511c45caa18932e27/Coordinate%20System/Miscellaneous)
 
 
+---
+
+#### Plane Analytic Geometry
+
+Plane Analytic Geometry, also known as Coordinate Geometry, is the study of geometric shapes and figures using a coordinate system. This field combines algebra and geometry, allowing us to represent shapes, lines, and curves mathematically and analyze their properties using equations.
+
+In plane analytic geometry, points are defined by coordinates on a plane, typically in a Cartesian coordinate system. This approach makes it possible to describe various geometric objects—such as lines, circles, ellipses, parabolas, and hyperbolas—using algebraic equations. The study often involves finding distances, slopes, midpoints, intersections, and angles between lines or curves.
+
+By representing geometric figures with equations, plane analytic geometry enables us to solve geometric problems more systematically. It also provides a foundation for calculus and advanced geometry, where curves and surfaces in higher dimensions are analyzed using similar principles.
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/3d3232dd1f4e0dbc26a47a8e9f2975c66ec98897/Plane%20Analytic%20Geometry)
+
 
 ---
 

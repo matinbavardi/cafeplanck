@@ -44,9 +44,6 @@ Interactive visualization of Euclidean space
  [Download link](https://github.com/matinbavardi/cafeplanck/tree/d6f2dddeddac436070ff907126d3e41631837cab/Space)
 
 ---
-
-
----
 ### Rodrigues' Formula
 
 **Rodrigues' Formula** is a method used in mathematics to generate specific types of polynomials, often known as orthogonal polynomials, which are particularly important in physics, engineering, and statistics. The formula provides a systematic way to construct these polynomials, especially for families such as Legendre, Hermite, and Laguerre polynomials, which commonly appear in solutions to differential equations in quantum mechanics, optics, and other scientific fields.

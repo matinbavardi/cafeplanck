@@ -48,6 +48,52 @@ By representing geometric figures with equations, plane analytic geometry enable
 
 ---
 
+#### Single variable calculus
+##### Intervals
+- Les Intervalles
+
+[Download link]()
+
+##### Functions
+- Fonction
+- Injectivite
+- Surjectivite
+- Bijectivite
+- Operation Sur Les Fonctions
+- Fonction Composee
+- Fonction Paire Et Impaire
+- Le Sens De Variation
+
+
+[Download link]()
+
+
+##### Limit
+- Limit
+- More examples of computing limits
+[Download link]()
+
+
+##### Asymptote
+- Horizontal asymptote
+- Vertical asymptote
+- Oblique asymptote
+[Download link]()
+
+
+
+##### Derivative
+- Definition
+- Derivative
+- Derivee Des Fonctions Elementaires
+[Download link]()
+
+
+
+
+
+
+
 #### Sequence and Series
 
 In mathematics, sequences and series are fundamental concepts used to represent ordered lists of numbers or functions and to sum them in various ways. These concepts are essential for studying convergence, approximations, and expansions of functions.

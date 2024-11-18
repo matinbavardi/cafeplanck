@@ -64,13 +64,13 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Fonction Paire Et Impaire
 - Le Sens De Variation
 
-
 [Download link]()
 
 
 ##### Limit
 - Limit
 - More examples of computing limits
+
 [Download link]()
 
 
@@ -78,6 +78,7 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Horizontal asymptote
 - Vertical asymptote
 - Oblique asymptote
+
 [Download link]()
 
 
@@ -86,6 +87,7 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Definition
 - Derivative
 - Derivee Des Fonctions Elementaires
+
 [Download link]()
 
 

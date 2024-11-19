@@ -396,153 +396,120 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 ## Physics
 
 ### Classical mechanics
-Vectors
 
-    Multiplication of vectors
+#### Vectors
+- Multiplication of vectors
 
-Download link
-Rectilinear motion
+[Download link]()
 
-    Horizontal motion
+#### Rectilinear motion
+- Horizontal motion
+- Vertical projectile motion
+  
+[Download link]()
 
-    Vertical projectile motion
 
-Download link
-Curvilinear motion
+#### Curvilinear motion
+- Angled projectile motion
+- Curvilinear motion in polar coordinate system
+- The Monkey and a gun
 
-    Angled projectile motion
+[Download link]()
 
-    Curvilinear motion in polar coordinate system
+#### Harmonic motion
 
-    The Monkey and a gun
+- Simple vertical spring-mass system
+- Damped vertical spring-mass system
+- Driven vertical spring-mass system
 
-Download link
-Harmonic motion
+[Download link]()
 
-    Simple vertical spring-mass system
+#### Dynamics
+- Multi Mass 1
+- Multi Mass 2
+- Multi Mass 3
+- Multi Mass 4
+- Multi Mass 5
+- Ramp
+- Wall
+- Drag
+- Push
+- Pulley
+- Ramp and Pulley
+- Elevator
 
-    Damped vertical spring-mass system
+[Download link]()
 
-    Driven vertical spring-mass system
+##### Lagrangian Dynamics
 
-Download link
-Dynamics
+- Horizontal motion
+- Vertical motion
+- Simple pendulum
+- Simple pendulum with damping and external force
+- Double pendulum
+- Pendulum hanging from a spinning ring
+- Horizontal mass spring system
+- Vertical mass spring system
+- Conical pendulum
+- Spring-Pendulum system
+- Pendulum on a movable support
 
-    Multi Mass 1
+[Download link]()
 
-    Multi Mass 2
 
-    Multi Mass 3
-
-    Multi Mass 4
-
-    Multi Mass 5
-
-    Ramp
-
-    Wall
-
-    Drag
-
-    Push
-
-    Pulley
-
-    Ramp and Pulley
-
-    Elevator
-
-Download link
-Lagrangian Dynamics
-
-    Horizontal motion
-
-    Vertical motion
-
-    Simple pendulum
-
-    Simple pendulum with damping and external force
-
-    Double pendulum
-
-    Pendulum hanging from a spinning ring
-
-    Horizontal mass spring system
-
-    Vertical mass spring system
-
-    Conical pendulum
-
-    Spring-Pendulum system
-
-    Pendulum on a movable support
-
-Download link
 ### Vibrations and waves
-Basic waves formulas
+#### Basic waves formulas
 
-    Basic waves formulas.pdf
+- Basic waves formulas.pdf
+- Basic waves formulas.pptx
 
-    Basic waves formulas.pptx
+[Download link]()
 
-Download link
-Sinusoidal waveform
+#### Sinusoidal waveform
 
-    Vibrations and waves
+- Vibrations and waves
 
-    Vertical undamped spring mass system
+- Vertical undamped spring mass system
+- Vertical damped spring mass system
+- Equation Onde Classique
+- Une Onde Classique
+- Superposition Discrete Des Ondes
+- Superposition Continue Des Ondes
 
-    Vertical damped spring mass system
+[Download link]()
 
-    Equation Onde Classique
+#### SNon sinusoidal waveform
+- Square wave
+- Triangle wave
+- Sawtooth wave
 
-    Une Onde Classique
+[Download link]()
 
-    Superposition Discrete Des Ondes
+#### Helmholtz Equation
 
-    Superposition Continue Des Ondes
+- Helmholtz equation
+- Helmholtz equation I
+- Helmholtz equation II
+- Helmholtz equation III
 
-Download link
-Non sinusoidal waveform
+[Download link]()
 
-    Square wave
+#### Time Equations
+- Time Equations 1
+- Time Equations 2
 
-    Triangle wave
+[Download link]()
 
-    Sawtooth wave
+#### Classical wave equations
 
-Download link
-Helmholtz Equation
+- Classical wave equations
+- Taut string, Fixed at x = 0 and x = L
+- Taut string, Fixed at x = 0 and free at x = L
+- Taut string, Free at x = 0 and x = L
+- Rectangular member
 
-    Helmholtz equation
+[Download link]()
 
-    Helmholtz equation I
-
-    Helmholtz equation II
-
-    Helmholtz equation III
-
-Download link
-Time Equations
-
-    Time Equations 1
-
-    Time Equations 2
-
-Download link
-Classical wave equations
-
-    Classical wave equations
-
-    Taut string, Fixed at x = 0 and x = L
-
-    Taut string, Fixed at x = 0 and free at x = L
-
-    Taut string, Free at x = 0 and x = L
-
-    Rectangular member
-
-Download link
 Miscellaneous
 
     Pulses

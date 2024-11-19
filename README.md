@@ -1,4 +1,4 @@
-!Café Planck](https://github.com/matinbavardi/cafeplanck/blob/main/cafeplanck.png?raw=true)
+![Café Planck](https://github.com/matinbavardi/cafeplanck/blob/main/cafeplanck.png?raw=true)
 
 # Café Planck
 Café Planck's Programming and Educational Lab represents three decades of excellence in mathematics and physics education. The lab leverages cutting-edge techniques to deliver precision-engineered solutions for science education. Through interactive demonstrations and adaptive computer labs, students engage directly with complex concepts, while educators access sophisticated technological support across all proficiency levels. Specializing in computational accessibility, the lab engineers dynamic scientific animations that illuminate abstract theories. Powered by Wolfram technologies, our platform bridges fundamental to advanced physics and mathematics, enabling students to develop comprehensive theses with robust computations and precise visualizations.

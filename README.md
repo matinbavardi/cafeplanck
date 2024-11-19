@@ -123,8 +123,6 @@ Café Planck's Programming and Educational Lab represents three decades of excel
 
 #### Sequence and Series
 
-In mathematics, sequences and series are fundamental concepts used to represent ordered lists of numbers or functions and to sum them in various ways. These concepts are essential for studying convergence, approximations, and expansions of functions.
-
 - Sequence and Series of Numbers
 - Taylor Series for Functions
 - Sequence and Series of Functions

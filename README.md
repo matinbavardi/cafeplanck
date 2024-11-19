@@ -400,13 +400,13 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 #### Vectors
 - Multiplication of vectors
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Vectors)
 
 #### Rectilinear motion
 - Horizontal motion
 - Vertical projectile motion
   
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Rectilinear%20motion)
 
 
 #### Curvilinear motion
@@ -414,7 +414,7 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Curvilinear motion in polar coordinate system
 - The Monkey and a gun
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Curvilinear%20motion)
 
 #### Harmonic motion
 
@@ -422,7 +422,7 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Damped vertical spring-mass system
 - Driven vertical spring-mass system
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Harmonic%20motion)
 
 #### Dynamics
 - Multi Mass 1
@@ -438,7 +438,7 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Ramp and Pulley
 - Elevator
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Dynamics)
 
 ##### Lagrangian Dynamics
 
@@ -454,7 +454,7 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Spring-Pendulum system
 - Pendulum on a movable support
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Classical%20mechanics/Lagrangian%20Dynamics)
 
 
 ### Vibrations and waves
@@ -463,12 +463,11 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Basic waves formulas.pdf
 - Basic waves formulas.pptx
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Vibrations%20and%20waves/Basic%20waves%20formulas)
 
 #### Sinusoidal waveform
 
 - Vibrations and waves
-
 - Vertical undamped spring mass system
 - Vertical damped spring mass system
 - Equation Onde Classique
@@ -476,14 +475,14 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Superposition Discrete Des Ondes
 - Superposition Continue Des Ondes
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Vibrations%20and%20waves/Sinusoidal%20waveform)
 
-#### SNon sinusoidal waveform
+#### Non sinusoidal waveform
 - Square wave
 - Triangle wave
 - Sawtooth wave
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Vibrations%20and%20waves/Non%20sinusoidal%20waveform)
 
 #### Helmholtz Equation
 
@@ -492,13 +491,13 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Helmholtz equation II
 - Helmholtz equation III
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Vibrations%20and%20waves/Helmholtz%20equation)
 
 #### Time Equations
 - Time Equations 1
 - Time Equations 2
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Vibrations%20and%20waves/Time%20Equations)
 
 #### Classical wave equations
 
@@ -508,179 +507,137 @@ Fourier analysis provides a structured way to understand and manipulate signals,
 - Taut string, Free at x = 0 and x = L
 - Rectangular member
 
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/eafaf0f1781eafbfd7b215d3fc34477c7266eb0e/Vibrations%20and%20waves/Classical%20wave%20equations)
+
+#### Miscellaneous
+- Pulses
+- Superposition of Wave Pulses
+- Standing waves
+
 [Download link]()
 
-Miscellaneous
-
-    Pulses
-
-    Superposition of Wave Pulses
-
-    Standing waves
-
-Download link
 ### Sound waves
+- Sound waves
 
-    Sound waves
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Sound%20waves)
 
-Download link
 ### Thermodynamics
+- Heat partial differential equation
 
-    Heat partial differential equation
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Thermodynamics)
 
-Download link
 ### Quantum mechanics
 
-Stern-gerlach Exêriment
-Wave vs Particle
+#### Stern-gerlach Exêriment
+#### Wave vs Particle
+##### Wave
 
-Wave
+- Équation d'onde classique
+- Une onde classique
+- Superposition discrète des ondes (Impulsion périodique)
+- Superposition continue des ondes classique (Impulsion non-périodique ou Paquet d'onde)
 
-    Équation d'onde classique
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Wave%20vs%20Particle/Wave)
 
-    Une onde classique
+##### Particle
+- Équation de Schrödinger
+- Superposition continue des ondes quantique (Impulsion non-périodique ou Paquet d'onde quantique)
 
-    Superposition discrète des ondes (Impulsion périodique)
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Wave%20vs%20Particle/Particle)
 
-    Superposition continue des ondes classique (Impulsion non-périodique ou Paquet d'onde)
+#### Bases bras et kets
+- Bases bras et kets
 
-Download link
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Bases%20bras%20et%20kets)
 
-Particle
+#### Mes Notes En Francais
+- Le courant de probabilité
+- Les conditions de continuité aux frontières entre les régions
+- Équation de Schrödinger
+- Puits de potentiel infini entre -a et a
+- Puits de potentiel infini entre 0 et L
+- Le potentiel en forme de marche
+- La barrière de potentiel
+- Le puits potentiel rectangulaire
+- Équation de Hermite
+- Oscillateur harmonique quantique en 1D
+- Équation d'Euler-Cauchy
+- Équation de Legendre
+- Équation de Legendre associée
+- Équation de Laplace en coordonnées sphérique
+- Moment cinétique
+- Les fonctions propres de l’opérateur de moment cinétique en coordonnées sphérique
+- Équation de Schrödinger en 3D
+- Atome d'Hydrogène
 
-    Équation de Schrödinger
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Mes%20Notes%20En%20Francais)
 
-    Superposition continue des ondes quantique (Impulsion non-périodique ou Paquet d'onde quantique)
+#### Les valeurs propres et les vecteurs propres
+- Les valeurs propres et les vecteurs propres (Operateur differentiel)
+- Les valeurs propres et les vecteurs propres (Operateur matriciel)
 
-Download link
-Bases bras et kets
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Les%20valeurs%20propres%20et%20les%20vecteurs%20propres)
 
-    Bases bras et kets
+#### Les matrices de Pauli
+- Les matrices de Pauli
 
-Download link
-Mes Notes En Francais
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Les%20matrices%20de%20Pauli)
 
-    Le courant de probabilité
+#### Eigenvalues ​​and eigenvectors of angular momentum operator
 
-    Les conditions de continuité aux frontières entre les régions
+##### Version 1
 
-    Équation de Schrödinger
+- For j=1/2
+- For j=1
+- For j=2
 
-    Puits de potentiel infini entre -a et a
+##### Version 2
+- For j=1/2
+- For j=1
+- For j=2
 
-    Puits de potentiel infini entre 0 et L
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Quantum%20mechanics/Eigenvalues%20%E2%80%8B%E2%80%8Band%20eigenvectors%20of%20angular%20momentum%20operator)
 
-    Le potentiel en forme de marche
-
-    La barrière de potentiel
-
-    Le puits potentiel rectangulaire
-
-    Équation de Hermite
-
-    Oscillateur harmonique quantique en 1D
-
-    Équation d'Euler-Cauchy
-
-    Équation de Legendre
-
-    Équation de Legendre associée
-
-    Équation de Laplace en coordonnées sphérique
-
-    Moment cinétique
-
-    Les fonctions propres de l’opérateur de moment cinétique en coordonnées sphérique
-
-    Équation de Schrödinger en 3D
-
-    Atome d'Hydrogène
-
-Download link
-Les valeurs propres et les vecteurs propres
-
-    Les valeurs propres et les vecteurs propres (Operateur differentiel)
-
-    Les valeurs propres et les vecteurs propres (Operateur matriciel)
-
-Download link
-Les matrices de Pauli
-
-    Les matrices de Pauli
-
-Download link
-Eigenvalues ​​and eigenvectors of angular momentum operator
-
-Version 1
-
-    For j=1/2
-
-    For j=1
-
-    For j=2
-
-Version 2
-
-    For j=1/2
-
-    For j=1
-
-    For j=2
-
-Download link
 ### Optics
 
 Un peu d'optique au niveau secondaire
-Les miroirs
+#### Les miroirs
 
-    Les miroirs convergents
+- Les miroirs convergents
+- Les miroirs divergents
 
-    Les miroirs divergents
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Optique/Miroirs)
 
-Download link
-Les lentilles
+#### Les lentilles
 
-    Les lentilles convergentes
+- Les lentilles convergentes
+- Les lentilles divergentes
 
-    Les lentilles divergentes
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Optique/Lentilles)
 
-Download link
-L'oeil
+#### L'oeil
+- L'oeil normal
+- L'oeil myope
+- L'oeil presbyte
 
-    L'oeil normal
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/fdbf32310acc1e26f40435bbf54860b3c706197d/Optique/Oeil)
 
-    L'oeil myope
-
-    L'oeil presbyte
-
-Download link
 ### Special relativity
 
-Under Construction
+#### Under Construction
+- Lorentz transformation
+- Ratio of relative velocity v to the speed of light c
+- Lorentz factor
+- Length contraction
+- Time dilation
+- Composition of velocities
+- Relativity of Simultaneity
+- Space distance vs space-time interval
+- Minkowski diagram
+- Proper Time and proper length
+- Metric
 
-    Lorentz transformation
-
-    Ratio of relative velocity v to the speed of light c
-
-    Lorentz factor
-
-    Length contraction
-
-    Time dilation
-
-    Composition of velocities
-
-    Relativity of Simultaneity
-
-    Space distance vs space-time interval
-
-    Minkowski diagram
-
-    Proper Time and proper length
-
-    Metric
-
-Download link
+[Download link]()
 
 
 

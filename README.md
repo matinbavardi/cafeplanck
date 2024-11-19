@@ -393,7 +393,327 @@ Fourier analysis is a mathematical technique used to break down complex waveform
 
 Fourier analysis provides a structured way to understand and manipulate signals, making it indispensable in modern science and engineering for tasks that involve frequency analysis, signal processing, and system optimization.
 
+## Physics
 
+### Classical mechanics
+Vectors
+
+    Multiplication of vectors
+
+Download link
+Rectilinear motion
+
+    Horizontal motion
+
+    Vertical projectile motion
+
+Download link
+Curvilinear motion
+
+    Angled projectile motion
+
+    Curvilinear motion in polar coordinate system
+
+    The Monkey and a gun
+
+Download link
+Harmonic motion
+
+    Simple vertical spring-mass system
+
+    Damped vertical spring-mass system
+
+    Driven vertical spring-mass system
+
+Download link
+Dynamics
+
+    Multi Mass 1
+
+    Multi Mass 2
+
+    Multi Mass 3
+
+    Multi Mass 4
+
+    Multi Mass 5
+
+    Ramp
+
+    Wall
+
+    Drag
+
+    Push
+
+    Pulley
+
+    Ramp and Pulley
+
+    Elevator
+
+Download link
+Lagrangian Dynamics
+
+    Horizontal motion
+
+    Vertical motion
+
+    Simple pendulum
+
+    Simple pendulum with damping and external force
+
+    Double pendulum
+
+    Pendulum hanging from a spinning ring
+
+    Horizontal mass spring system
+
+    Vertical mass spring system
+
+    Conical pendulum
+
+    Spring-Pendulum system
+
+    Pendulum on a movable support
+
+Download link
+### Vibrations and waves
+Basic waves formulas
+
+    Basic waves formulas.pdf
+
+    Basic waves formulas.pptx
+
+Download link
+Sinusoidal waveform
+
+    Vibrations and waves
+
+    Vertical undamped spring mass system
+
+    Vertical damped spring mass system
+
+    Equation Onde Classique
+
+    Une Onde Classique
+
+    Superposition Discrete Des Ondes
+
+    Superposition Continue Des Ondes
+
+Download link
+Non sinusoidal waveform
+
+    Square wave
+
+    Triangle wave
+
+    Sawtooth wave
+
+Download link
+Helmholtz Equation
+
+    Helmholtz equation
+
+    Helmholtz equation I
+
+    Helmholtz equation II
+
+    Helmholtz equation III
+
+Download link
+Time Equations
+
+    Time Equations 1
+
+    Time Equations 2
+
+Download link
+Classical wave equations
+
+    Classical wave equations
+
+    Taut string, Fixed at x = 0 and x = L
+
+    Taut string, Fixed at x = 0 and free at x = L
+
+    Taut string, Free at x = 0 and x = L
+
+    Rectangular member
+
+Download link
+Miscellaneous
+
+    Pulses
+
+    Superposition of Wave Pulses
+
+    Standing waves
+
+Download link
+### Sound waves
+
+    Sound waves
+
+Download link
+### Thermodynamics
+
+    Heat partial differential equation
+
+Download link
+### Quantum mechanics
+
+Stern-gerlach Exêriment
+Wave vs Particle
+
+Wave
+
+    Équation d'onde classique
+
+    Une onde classique
+
+    Superposition discrète des ondes (Impulsion périodique)
+
+    Superposition continue des ondes classique (Impulsion non-périodique ou Paquet d'onde)
+
+Download link
+
+Particle
+
+    Équation de Schrödinger
+
+    Superposition continue des ondes quantique (Impulsion non-périodique ou Paquet d'onde quantique)
+
+Download link
+Bases bras et kets
+
+    Bases bras et kets
+
+Download link
+Mes Notes En Francais
+
+    Le courant de probabilité
+
+    Les conditions de continuité aux frontières entre les régions
+
+    Équation de Schrödinger
+
+    Puits de potentiel infini entre -a et a
+
+    Puits de potentiel infini entre 0 et L
+
+    Le potentiel en forme de marche
+
+    La barrière de potentiel
+
+    Le puits potentiel rectangulaire
+
+    Équation de Hermite
+
+    Oscillateur harmonique quantique en 1D
+
+    Équation d'Euler-Cauchy
+
+    Équation de Legendre
+
+    Équation de Legendre associée
+
+    Équation de Laplace en coordonnées sphérique
+
+    Moment cinétique
+
+    Les fonctions propres de l’opérateur de moment cinétique en coordonnées sphérique
+
+    Équation de Schrödinger en 3D
+
+    Atome d'Hydrogène
+
+Download link
+Les valeurs propres et les vecteurs propres
+
+    Les valeurs propres et les vecteurs propres (Operateur differentiel)
+
+    Les valeurs propres et les vecteurs propres (Operateur matriciel)
+
+Download link
+Les matrices de Pauli
+
+    Les matrices de Pauli
+
+Download link
+Eigenvalues ​​and eigenvectors of angular momentum operator
+
+Version 1
+
+    For j=1/2
+
+    For j=1
+
+    For j=2
+
+Version 2
+
+    For j=1/2
+
+    For j=1
+
+    For j=2
+
+Download link
+### Optics
+
+Un peu d'optique au niveau secondaire
+Les miroirs
+
+    Les miroirs convergents
+
+    Les miroirs divergents
+
+Download link
+Les lentilles
+
+    Les lentilles convergentes
+
+    Les lentilles divergentes
+
+Download link
+L'oeil
+
+    L'oeil normal
+
+    L'oeil myope
+
+    L'oeil presbyte
+
+Download link
+### Special relativity
+
+Under Construction
+
+    Lorentz transformation
+
+    Ratio of relative velocity v to the speed of light c
+
+    Lorentz factor
+
+    Length contraction
+
+    Time dilation
+
+    Composition of velocities
+
+    Relativity of Simultaneity
+
+    Space distance vs space-time interval
+
+    Minkowski diagram
+
+    Proper Time and proper length
+
+    Metric
+
+Download link
 
 
 

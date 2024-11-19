@@ -56,7 +56,7 @@ By representing geometric figures with equations, plane analytic geometry enable
 ##### Intervals
 - Les Intervalles
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Intervals)
 
 ##### Functions
 - Fonction
@@ -68,14 +68,14 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Fonction Paire Et Impaire
 - Le Sens De Variation
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Functions)
 
 
 ##### Limit
 - Limit
 - More examples of computing limits
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Limit)
 
 
 ##### Asymptote
@@ -83,7 +83,7 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Vertical asymptote
 - Oblique asymptote
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Asymptote)
 
 
 
@@ -92,13 +92,43 @@ By representing geometric figures with equations, plane analytic geometry enable
 - Derivative
 - Derivee Des Fonctions Elementaires
 
-[Download link]()
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Derivative)
 
 
 
+##### Curve
+- Type 01
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type1)
+- Type 02
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type2)
+- Type 03
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type3)
+- Type 04
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type4)
+- Type 05
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type5)
+- Type 06
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type6)
+- Type 07
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type7)
+- Type 08
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type8)
+- Type 09
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type9)
+ - Type 10
+  [Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Plot/Type10) 
 
 
+##### Differential
+- Differential
 
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Differential)
+
+##### Integral
+- Definite integral
+- Indefinite integral
+
+[Download link](https://github.com/matinbavardi/cafeplanck/tree/a932c0881945cfe5aa9e9e704ea1c98b6c7afbbb/Single%20variable%20calculus/Integral)
 
 #### Sequence and Series
 

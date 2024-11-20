@@ -2,11 +2,53 @@
   <img src="https://github.com/matinbavardi/cafeplanck/blob/main/cafeplanck.png?raw=true" alt="Café Planck">
 </div>
 
-# Café Planck
-Café Planck's Programming and Educational Lab represents three decades of excellence in mathematics and physics education. The lab leverages cutting-edge techniques to deliver precision-engineered solutions for science education. Through interactive demonstrations and adaptive computer labs, students engage directly with complex concepts, while educators access sophisticated technological support across all proficiency levels. Specializing in computational accessibility, the lab engineers dynamic scientific animations that illuminate abstract theories. Powered by Wolfram technologies, our platform bridges fundamental to advanced physics and mathematics, enabling students to develop comprehensive theses with robust computations and precise visualizations.
+# Welcome to Café Planck
 
-* To view or print Mathematica.nb files, you must download the [Wolfram Player](http://www.wolfram.com/cdf-player/).
+## Where Modern Education Meets Scientific Programming
 
+Since 2010, Café Planck has stood as an open repository of mathematical and physical knowledge, representing a unique fusion of programming and scientific education. What began as a collection of educational materials has evolved into a comprehensive digital laboratory, demonstrating how programming can transform the way we learn and understand science.
+
+### Our Foundation
+Built on Wolfram technology and powered by precise computational methods, Café Planck offers an extensive collection of over 30,000 pages of resources, including:
+- Interactive mathematical demonstrations
+- Physics simulations and visualizations
+- Comprehensive course materials
+- Advanced computational notebooks
+- Educational programming solutions
+
+### What Sets Us Apart
+- **Precision-Engineered Solutions**: Every demonstration and simulation is crafted with mathematical rigor and computational accuracy
+- **Interactive Learning**: Dynamic visualizations that transform abstract concepts into tangible understanding
+- **Open Access**: All materials are freely available, supporting our mission of democratizing scientific education
+- **Comprehensive Coverage**: From fundamental concepts to advanced theoretical frameworks
+- **Professional Tools**: Powered by Mathematica, offering sophisticated computations and visualizations
+
+### Resource Categories
+- Mathematics (Calculus, Linear Algebra, Fourier Analysis)
+- Classical Mechanics
+- Quantum Mechanics
+- Optics
+- Special Relativity
+- Computational Physics
+- Advanced Visualization Techniques
+
+### Our Future
+In 2020, marking a significant milestone, Café Planck's entire collection was officially donated to PlayText Software Inc., a BC Benefit Company. This donation aligns with and supports the company's humanitarian objectives in digital preservation and education accessibility. Our ongoing mission is to continuously update and develop these resources, making them more sophisticated and accessible to learners worldwide.
+
+*Note: To access .nb files, download the free Wolfram Player. All materials are available for public use under MIT license.*
+
+Join us in exploring the fundamental laws that govern our universe through the power of computational science and programming.
+
+---
+
+*Café Planck: Transforming scientific education through programming excellence.*
+
+
+
+---
+
+
+# Table Of Contents
 
 ## Mathematics
 

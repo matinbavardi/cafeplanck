@@ -4,7 +4,7 @@
 
 # Welcome to Café Planck
 
-## Where Modern Education Meets Scientific Programming
+### Created by [Matin Bavardi](http://www.matinbavardi.com/) & Dian Soha
 
 Since 2010, Café Planck has stood as an open repository of mathematical and physical knowledge, representing a unique fusion of programming and scientific education. What began as a collection of educational materials has evolved into a comprehensive digital laboratory, demonstrating how programming can transform the way we learn and understand science.
 
